@@ -13,3 +13,15 @@ A language study program covering the most common topics encountered in the day-
 .any? - almost one element 
 .all? - all elements
 .none?  - none of elements
+
+## Day 02 - Hash
+hash[:key] - access value
+fetch - access value if exists
+merge - combine hashs
+transform_values - transform values
+transform_keys - tranform keys
+dig - access nested structures
+slice - select keys
+except - remove keys
+Hash.new(0) - criar counters
+Hash.new{ ... } - grouping
