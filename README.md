@@ -26,7 +26,7 @@ A language study program covering the most common topics encountered in the day-
 - Hash.new(0) - criar counters
 - Hash.new{ ... } - grouping
 
-## Day 03 - Strings, Symbols e Mutability
+## Day 03 - Strings, Symbols and Mutability
 - freeze
 - dup
 - clone
@@ -34,3 +34,13 @@ A language study program covering the most common topics encountered in the day-
 - to_sym
 - object_id
 - frozen?
+
+## Day 04 - Code Blocks and yield
+- use { } and do...end
+- diferences between each, map and select
+- pass a block to a method
+- execute block with yield
+- check if block was passed with block_given?
+- capture a block with &block
+- understand when use yield and use &block
+- create methods that receive and run blocks
