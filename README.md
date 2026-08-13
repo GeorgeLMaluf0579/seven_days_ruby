@@ -44,3 +44,15 @@ A language study program covering the most common topics encountered in the day-
 - capture a block with &block
 - understand when use yield and use &block
 - create methods that receive and run blocks
+
+## Day 05 - Proc and Lambda
+- Proc.new
+- -> { }
+- return
+- call
+
+## Day 06 - Pratical
+- frequencies(array)
+- count_words(text)
+- index_by(array)
+- group_by_key(array, key)
