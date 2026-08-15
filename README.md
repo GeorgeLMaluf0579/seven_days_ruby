@@ -56,3 +56,6 @@ A language study program covering the most common topics encountered in the day-
 - count_words(text)
 - index_by(array)
 - group_by_key(array, key)
+
+## Day 07 - Review
+- Review all 6 days before
